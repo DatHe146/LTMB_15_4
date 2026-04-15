@@ -1,8 +1,9 @@
 Họ và tên: Nguyễn Xuân Đạt
 MSSV: 23810310361
 
-KQ SP:
-<img width="405" height="869" alt="image" src="https://github.com/user-attachments/assets/7f572cfa-bafc-4d33-87ff-2acb219e45c1" />
-<img width="409" height="870" alt="image" src="https://github.com/user-attachments/assets/3b9f1e57-57dd-492e-8efb-b7958c5c895f" />
-<img width="407" height="872" alt="image" src="https://github.com/user-attachments/assets/b39c84a5-a581-402b-afc7-eb3ba2852904" />
+<img width="1125" height="2436" alt="image" src="https://github.com/user-attachments/assets/c46de313-c5f6-4097-aa50-5db7ab0188e4" />
+
+<img width="1125" height="2436" alt="image" src="https://github.com/user-attachments/assets/c77afeae-f6d3-49e9-97e2-9f45d8144819" />
+
+<img width="1125" height="2436" alt="image" src="https://github.com/user-attachments/assets/a286a502-2409-4d20-a1f5-58c9547186dd" />
 
